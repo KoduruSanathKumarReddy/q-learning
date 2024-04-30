@@ -48,15 +48,19 @@ def q_learning(env,
 ~~~
 
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
+
 <img width="900" alt="image" src="https://github.com/KoduruSanathKumarReddy/q-learning/assets/69503902/9f1a757d-24c3-48bb-bba6-f8c1a3ad7a95">
+
 <img width="955" alt="image" src="https://github.com/KoduruSanathKumarReddy/q-learning/assets/69503902/977c2262-8125-443c-b21a-92d3e185c6de">
+
 <img width="955" alt="image" src="https://github.com/KoduruSanathKumarReddy/q-learning/assets/69503902/748c00bd-c462-451b-8269-415390303f32">
+
 <img width="860" alt="image" src="https://github.com/KoduruSanathKumarReddy/q-learning/assets/69503902/1c154823-c848-4681-9430-aee241ea2d78">
+
 <img width="860" alt="image" src="https://github.com/KoduruSanathKumarReddy/q-learning/assets/69503902/deb76958-ceab-4d45-80dc-a34edb78f606">
 
 
-Include plot comparing the state value functions of Monte Carlo method and Qlearning.
+
 
 ## RESULT:
 
