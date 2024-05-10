@@ -6,7 +6,11 @@ To develop a Python program to find the optimal policy for the given RL environm
 
 ## PROBLEM STATEMENT
 
-Develop a Python program to derive the optimal policy using Q-Learning and compare state values with Monte Carlo method.
+The bandit slippery walk problem is a reinforcement learning problem in which an agent must learn to navigate a 7-state environment in order to reach a goal state. The environment is slippery, so the agent has a chance of moving in the opposite direction of the action it takes.The environment has 7 states where two of them are terminal states(Goal State and Hole State) and remaining five are transition stations including the starting state. The actions that the agent take are to move right and to move left.There are various transition probabilities for each action that the agent takes.50% chance that the agent moves in the intended direction.33.33% chance that the agent stays in its current state.16.66% chance that the agent moves in the opposite direction.
+
+
+
+
 ## Q LEARNING ALGORITHM
 ### Step 1:
 Initialize Q-table and hyperparameters.
